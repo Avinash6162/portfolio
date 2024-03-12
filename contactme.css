@@ -1,0 +1,34 @@
+*{
+    background-color: #ccc5aa;
+}
+a{
+    text-decoration: none;
+}
+
+
+.email{
+    color: #d10f0f;
+}
+.linkedin{
+    color: #0073B2;
+}
+.stackoverflow{
+    color: #F69A50 ;
+}
+
+
+.font1{
+    color: #d10f0f;
+}
+.font2{
+    color: #0073B2;
+}
+.font3{
+    color: #F69A50;
+}
+
+div{
+    text-align: center;
+    
+    color: #0073B2;
+}
